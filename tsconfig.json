@@ -12,10 +12,10 @@
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "paths": {
-      "my-lib": [
-        "dist/my-lib/my-lib",
-        "dist/my-lib"
-      ]
+      "ngx-intl-tel-input": [
+        "dist/ngx-intl-tel-input/ngx-intl-tel-input",
+        "dist/ngx-intl-tel-input"
+      ],
     },
     "declaration": false,
     "downlevelIteration": true,
