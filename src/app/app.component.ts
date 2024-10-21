@@ -3,7 +3,7 @@ import { SearchCountryField } from 'projects/ngx-intl-tel-input/src/lib/enums/se
 
 import { Component } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { PhoneNumberFormat } from 'projects/ngx-intl-tel-input/src/public_api';
+import { PhoneNumberFormat } from 'ngx-intl-tel-input';
 
 @Component({
 	selector: 'app-root',
