@@ -13,10 +13,13 @@
 		"type": "git",
 		"url": "git+https://github.com/experteam-mx/ngx-intl-tel-input"
 	},
-	"author": {
-		"name": "adellopez",
-		"email": "adellopezpantoja@gmail.com"
-	},
+  "author": "Experteam Cía. Ltda.",
+  "contributors": [
+    {
+      "name": "adellopez",
+      "email": "adellopezpantoja@gmail.com"
+    }
+  ],
 	"keywords": [
 		"angular",
 		"ng8",
